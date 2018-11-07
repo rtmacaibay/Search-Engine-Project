@@ -1,0 +1,8 @@
+"queries": "bird",
+"results": [
+&nbsp;&nbsp;&nbsp;&nbsp;{
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"where": "<a href="http://vidi.cs.ucdavis.edu/publications" target="_blank">http://vidi.cs.ucdavis.edu/publications</a>",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"count": 1,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"index": 74
+&nbsp;&nbsp;&nbsp;&nbsp;}
+]

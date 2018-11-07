@@ -1,0 +1,23 @@
+"queries": "bird",
+"results": [
+&nbsp;&nbsp;&nbsp;&nbsp;{
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"where": "<a href="http://vis.cs.ucdavis.edu/~cjbryan/cs212/" target="_blank">http://vis.cs.ucdavis.edu/~cjbryan/cs212/</a>",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"count": 1,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"index": 1
+&nbsp;&nbsp;&nbsp;&nbsp;},
+&nbsp;&nbsp;&nbsp;&nbsp;{
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"where": "<a href="http://vis.cs.ucdavis.edu/~cjbryan/cs212/index.html" target="_blank">http://vis.cs.ucdavis.edu/~cjbryan/cs212/index.html</a>",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"count": 1,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"index": 1
+&nbsp;&nbsp;&nbsp;&nbsp;},
+&nbsp;&nbsp;&nbsp;&nbsp;{
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"where": "<a href="http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/" target="_blank">http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/</a>",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"count": 1,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"index": 3
+&nbsp;&nbsp;&nbsp;&nbsp;},
+&nbsp;&nbsp;&nbsp;&nbsp;{
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"where": "<a href="http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds.html" target="_blank">http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds.html</a>",
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"count": 1,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"index": 8
+&nbsp;&nbsp;&nbsp;&nbsp;}
+]
